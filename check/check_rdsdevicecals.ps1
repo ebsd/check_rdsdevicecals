@@ -28,6 +28,7 @@
 	2 - Windows Server 2008
 	3 - Windows Server 2008 R2
 	4 - Windows Server 2012
+	5 - Windows Server 2016
 	   
     .EXAMPLE
     .\check_rds_device_cals.ps1 -Warning 20 -Critical 5 -KeyPackTypes 2 -ProductVersionID 2,3
